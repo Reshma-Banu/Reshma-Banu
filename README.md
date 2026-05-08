@@ -4,7 +4,7 @@
 
 ### Freelance AI/ML Engineer & Full-Stack Developer | LLMs, RAG Pipelines, NLP | Building Production-Ready AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLM+%26+RAG+Systems;Fullstack+Developer;Voice+AI+%26+Backend+Systems;Writer+who+happens+to+code+a+lot" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Fullstack+Developer;LLM+%26+RAG+Systems;Writing+Between+Deployments" />
 
 </div>
 
@@ -81,20 +81,6 @@ A few pieces:
   <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
