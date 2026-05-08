@@ -43,43 +43,66 @@ A few pieces:
 ## 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fine--tuning-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-CA8A04?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Backend & Fullstack
+## 💻 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,fastapi,react,nextjs" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebRTC-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,flask,fastapi,react" />
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud & MLOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event_Hubs-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Data & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## 🛠️ Tools & Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-111827?style=for-the-badge" />
 </p>
 
 ---
