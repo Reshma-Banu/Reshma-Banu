@@ -35,7 +35,7 @@ A few pieces:
 
 → [Read on Medium](https://medium.com/@reshwrites)
 
-In 2026, I published my first novel, One Match Only: Some People Find Each Other Twice, a contemporary second-chance romance about missed connections, lost years, and finding your way back to someone you never really forgot.
+In 2026, I published my first novel on Amazon, One Match Only: Some People Find Each Other Twice, a contemporary second-chance romance about missed connections, lost years, and finding your way back to someone you never really forgot.
 
 ---
 
