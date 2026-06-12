@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Reshma Banu Rasool
 
-### Applied AI / Generative AI Engineer | LLMs, RAG Pipelines & AI Agents
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Applied+AI+%2F+Generative+AI+Engineer;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents;Full-Stack+Developer;Published+Author;Building+Systems+and+Writing+Stories" />
 
