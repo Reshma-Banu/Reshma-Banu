@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Reshma Banu Rasool
 
-### Freelance AI/ML Engineer & Full-Stack Developer | LLMs, RAG Pipelines, NLP | Building Production-Ready AI Systems
+### Applied AI / Generative AI Engineer | LLMs, RAG Pipelines & AI Agents
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Fullstack+Developer;LLM+%26+RAG+Systems;Writing+Between+Deployments" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Applied+AI+%2F+Generative+AI+Engineer;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents;Full-Stack+Developer;Published+Author;Building+Systems+and+Writing+Stories" />
 
 </div>
 
@@ -12,13 +12,13 @@
 
 # 🧠 About Me
 
-I’m an AI/ML Engineer who enjoys building intelligent systems that feel practical, scalable, and human.
+I’m an Applied AI and Generative AI Engineer who enjoys building intelligent systems that feel practical, scalable, and genuinely useful.
 
-Most of my work lives somewhere between backend engineering, LLM systems, RAG pipelines, real-time AI infrastructure, and fullstack applications. I enjoy turning complex ideas into systems people can actually use while keeping the engineering clean, reliable, and thoughtful.
+Most of my work lives somewhere between LLM applications, RAG pipelines, AI agents, backend engineering, cloud-native platforms, and full-stack development. I enjoy turning complex ideas into products people can actually use while keeping the engineering clean, reliable, and thoughtful.
 
-Outside engineering, I write on Medium. Somewhere between debugging systems, moving across countries, and trying to make sense of life, writing became a space where I slow down a little.
+Over the last few years, I’ve worked on everything from enterprise AI systems and document intelligence platforms to real-time voice applications and agentic workflows. I’m especially interested in the space where AI moves beyond demos and starts creating measurable impact in the real world.
 
-I like thoughtful products, quiet cafés, clean architecture, late-night ideas that probably should have stayed in drafts, and photographing skies for absolutely no reason.
+Outside engineering, I write. Somewhere between debugging systems, moving across countries, learning French, and chasing ambitious goals, writing became a way to slow down and make sense of things.
 
 ---
 
@@ -35,6 +35,8 @@ A few pieces:
 - *I Don’t Know Why I Keep Photographing the Sky. I Think It’s Because It Never Lies.*
 
 → [Read on Medium](https://medium.com/@reshwrites)
+
+In 2026, I published my first novel, One Match Only: Some People Find Each Other Twice, a contemporary second-chance romance about missed connections, lost years, and finding your way back to someone you never really forgot.
 
 ---
 
